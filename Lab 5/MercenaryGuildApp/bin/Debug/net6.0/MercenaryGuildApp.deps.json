@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MercenaryGuildApp/1.0.0": {
+        "dependencies": {
+          "MercenaryGuildLib": "1.0.0"
+        },
+        "runtime": {
+          "MercenaryGuildApp.dll": {}
+        }
+      },
+      "MercenaryGuildLib/1.0.0": {
+        "runtime": {
+          "MercenaryGuildLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MercenaryGuildApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MercenaryGuildLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

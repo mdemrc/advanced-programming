@@ -1,0 +1,11 @@
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\bin\Debug\net6.0\MercenaryGuildLib.deps.json
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\bin\Debug\net6.0\MercenaryGuildLib.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\bin\Debug\net6.0\MercenaryGuildLib.pdb
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\obj\Debug\net6.0\MercenaryGuildLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\obj\Debug\net6.0\MercenaryGuildLib.AssemblyInfoInputs.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\obj\Debug\net6.0\MercenaryGuildLib.AssemblyInfo.cs
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\obj\Debug\net6.0\MercenaryGuildLib.csproj.CoreCompileInputs.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\obj\Debug\net6.0\MercenaryGuildLib.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\obj\Debug\net6.0\refint\MercenaryGuildLib.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\obj\Debug\net6.0\MercenaryGuildLib.pdb
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab5\MercenaryGuildLib\obj\Debug\net6.0\ref\MercenaryGuildLib.dll

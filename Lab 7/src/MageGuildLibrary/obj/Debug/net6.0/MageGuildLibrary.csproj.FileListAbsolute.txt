@@ -1,0 +1,11 @@
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\bin\Debug\net6.0\MageGuildLibrary.deps.json
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\bin\Debug\net6.0\MageGuildLibrary.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\bin\Debug\net6.0\MageGuildLibrary.pdb
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\obj\Debug\net6.0\MageGuildLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\obj\Debug\net6.0\MageGuildLibrary.AssemblyInfoInputs.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\obj\Debug\net6.0\MageGuildLibrary.AssemblyInfo.cs
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\obj\Debug\net6.0\MageGuildLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\obj\Debug\net6.0\MageGuildLibrary.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\obj\Debug\net6.0\refint\MageGuildLibrary.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\obj\Debug\net6.0\MageGuildLibrary.pdb
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab7\src\MageGuildLibrary\obj\Debug\net6.0\ref\MageGuildLibrary.dll

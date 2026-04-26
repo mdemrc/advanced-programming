@@ -1,0 +1,14 @@
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\bin\Debug\net6.0\ZooManager.exe
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\bin\Debug\net6.0\ZooManager.deps.json
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\bin\Debug\net6.0\ZooManager.runtimeconfig.json
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\bin\Debug\net6.0\ZooManager.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\bin\Debug\net6.0\ZooManager.pdb
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\obj\Debug\net6.0\ZooManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\obj\Debug\net6.0\ZooManager.AssemblyInfoInputs.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\obj\Debug\net6.0\ZooManager.AssemblyInfo.cs
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\obj\Debug\net6.0\ZooManager.csproj.CoreCompileInputs.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\obj\Debug\net6.0\ZooManager.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\obj\Debug\net6.0\refint\ZooManager.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\obj\Debug\net6.0\ZooManager.pdb
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\obj\Debug\net6.0\ZooManager.genruntimeconfig.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab3\ZooManager\obj\Debug\net6.0\ref\ZooManager.dll

@@ -1,0 +1,14 @@
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\bin\Debug\net6.0\DocumentLibrary.exe
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\bin\Debug\net6.0\DocumentLibrary.deps.json
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\bin\Debug\net6.0\DocumentLibrary.runtimeconfig.json
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\bin\Debug\net6.0\DocumentLibrary.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\bin\Debug\net6.0\DocumentLibrary.pdb
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\obj\Debug\net6.0\DocumentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\obj\Debug\net6.0\DocumentLibrary.AssemblyInfoInputs.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\obj\Debug\net6.0\DocumentLibrary.AssemblyInfo.cs
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\obj\Debug\net6.0\DocumentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\obj\Debug\net6.0\DocumentLibrary.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\obj\Debug\net6.0\refint\DocumentLibrary.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\obj\Debug\net6.0\DocumentLibrary.pdb
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\obj\Debug\net6.0\DocumentLibrary.genruntimeconfig.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab2\obj\Debug\net6.0\ref\DocumentLibrary.dll

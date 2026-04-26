@@ -1,0 +1,14 @@
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\bin\Debug\net6.0\Lab4.exe
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\bin\Debug\net6.0\Lab4.deps.json
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\bin\Debug\net6.0\Lab4.runtimeconfig.json
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\bin\Debug\net6.0\Lab4.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\bin\Debug\net6.0\Lab4.pdb
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\obj\Debug\net6.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\obj\Debug\net6.0\Lab4.AssemblyInfoInputs.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\obj\Debug\net6.0\Lab4.AssemblyInfo.cs
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\obj\Debug\net6.0\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\obj\Debug\net6.0\Lab4.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\obj\Debug\net6.0\refint\Lab4.dll
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\obj\Debug\net6.0\Lab4.pdb
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\obj\Debug\net6.0\Lab4.genruntimeconfig.cache
+C:\Users\MdmrC\Desktop\dersler\advanced-pr\lab4\obj\Debug\net6.0\ref\Lab4.dll
