@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JsonPlugin/1.0.0": {
+        "dependencies": {
+          "ContactsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "JsonPlugin.dll": {}
+        }
+      },
+      "ContactsLibrary/1.0.0": {
+        "runtime": {
+          "ContactsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JsonPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContactsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

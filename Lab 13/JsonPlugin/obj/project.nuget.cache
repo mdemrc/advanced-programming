@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4RWSK9phpMP4GIcZE5L7Ph7FNS4Vu/sUypU1S0lLM4W+khu1MDTN8DzbuRbubGFR2TV9tGtN4ZULDxEwtjBITw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 13\\JsonPlugin\\JsonPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

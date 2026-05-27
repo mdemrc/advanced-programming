@@ -1,0 +1,12 @@
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\bin\Debug\net6.0\ContactsLibrary.deps.json
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\bin\Debug\net6.0\ContactsLibrary.dll
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\bin\Debug\net6.0\ContactsLibrary.pdb
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\obj\Debug\net6.0\ContactsLibrary.csproj.AssemblyReference.cache
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\obj\Debug\net6.0\ContactsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\obj\Debug\net6.0\ContactsLibrary.AssemblyInfoInputs.cache
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\obj\Debug\net6.0\ContactsLibrary.AssemblyInfo.cs
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\obj\Debug\net6.0\ContactsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\obj\Debug\net6.0\ContactsLibrary.dll
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\obj\Debug\net6.0\refint\ContactsLibrary.dll
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\obj\Debug\net6.0\ContactsLibrary.pdb
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\ContactsLibrary\obj\Debug\net6.0\ref\ContactsLibrary.dll

@@ -1,0 +1,15 @@
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\bin\Debug\net6.0\JsonPlugin.deps.json
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\bin\Debug\net6.0\JsonPlugin.dll
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\bin\Debug\net6.0\JsonPlugin.pdb
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\bin\Debug\net6.0\ContactsLibrary.dll
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\bin\Debug\net6.0\ContactsLibrary.pdb
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\obj\Debug\net6.0\JsonPlugin.csproj.AssemblyReference.cache
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\obj\Debug\net6.0\JsonPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\obj\Debug\net6.0\JsonPlugin.AssemblyInfoInputs.cache
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\obj\Debug\net6.0\JsonPlugin.AssemblyInfo.cs
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\obj\Debug\net6.0\JsonPlugin.csproj.CoreCompileInputs.cache
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\obj\Debug\net6.0\JsonPlugin.csproj.CopyComplete
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\obj\Debug\net6.0\JsonPlugin.dll
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\obj\Debug\net6.0\refint\JsonPlugin.dll
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\obj\Debug\net6.0\JsonPlugin.pdb
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 13\JsonPlugin\obj\Debug\net6.0\ref\JsonPlugin.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PotionBrewApp/1.0.0": {
+        "dependencies": {
+          "PotionBrewLib": "1.0.0"
+        },
+        "runtime": {
+          "PotionBrewApp.dll": {}
+        }
+      },
+      "PotionBrewLib/1.0.0": {
+        "runtime": {
+          "PotionBrewLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PotionBrewApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PotionBrewLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

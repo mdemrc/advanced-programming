@@ -1,0 +1,51 @@
+@model IEnumerable<Bookstore.Models.Order>
+
+@{
+    ViewData["Title"] = "Orders Roster";
+}
+
+<h1>Orders Roster</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Place New Order</a>
+</p>
+
+<table class="table table-bordered table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Customer Info</th>
+            <th>Order Date</th>
+            <th>Ordered Items</th>
+            <th>Total Price</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <code>#@item.Id</code>
+            </td>
+            <td>
+                <strong>@item.CustomerName</strong><br/>
+                <small class="text-muted">@item.CustomerEmail</small>
+            </td>
+            <td>
+                @item.OrderDate.ToString("yyyy-MM-dd HH:mm")
+            </td>
+            <td>
+                <ul class="list-unstyled mb-0">
+                @foreach(var oi in item.OrderItems) {
+                    <li>
+                        - @oi.Book.Title x @oi.Quantity (@oi.Price.ToString("C"))
+                    </li>
+                }
+                </ul>
+            </td>
+            <td>
+                <strong class="text-success">@item.TotalAmount.ToString("C")</strong>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

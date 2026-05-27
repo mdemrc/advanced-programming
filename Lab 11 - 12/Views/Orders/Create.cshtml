@@ -1,0 +1,46 @@
+@{
+    ViewData["Title"] = "Place Order";
+}
+
+<h1>Place Order</h1>
+
+<h4>Order Details</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group mb-3">
+                <label class="control-label">Customer Name</label>
+                <input name="customerName" class="form-control" required />
+            </div>
+            
+            <div class="form-group mb-3">
+                <label class="control-label">Email Address</label>
+                <input name="customerEmail" type="email" class="form-control" required />
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Select Book</label>
+                <select name="bookId" class="form-control" asp-items="ViewBag.BookId" required>
+                    <option value="">-- Select Book --</option>
+                </select>
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Quantity</label>
+                <input name="quantity" type="number" class="form-control" min="1" max="100" value="1" required />
+            </div>
+
+            <div class="form-group mt-4">
+                <input type="submit" value="Submit Order" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-secondary ms-2">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

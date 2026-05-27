@@ -1,0 +1,12 @@
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\bin\Debug\net6.0\PotionBrewLib.deps.json
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\bin\Debug\net6.0\PotionBrewLib.dll
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\bin\Debug\net6.0\PotionBrewLib.pdb
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\obj\Debug\net6.0\PotionBrewLib.csproj.AssemblyReference.cache
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\obj\Debug\net6.0\PotionBrewLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\obj\Debug\net6.0\PotionBrewLib.AssemblyInfoInputs.cache
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\obj\Debug\net6.0\PotionBrewLib.AssemblyInfo.cs
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\obj\Debug\net6.0\PotionBrewLib.csproj.CoreCompileInputs.cache
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\obj\Debug\net6.0\PotionBrewLib.dll
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\obj\Debug\net6.0\refint\PotionBrewLib.dll
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\obj\Debug\net6.0\PotionBrewLib.pdb
+C:\Users\MdmrC\Desktop\advanced-programming\Lab 8-9\PotionBrewLib\obj\Debug\net6.0\ref\PotionBrewLib.dll

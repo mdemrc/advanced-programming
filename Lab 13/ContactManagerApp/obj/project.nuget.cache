@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOAR+Xr8o8+0ZJNgtotafZccZLbMGrEcb91Xk4WTRP1pvPv+sj7ExHQ0HqLwMnn5c5XeJZZzM39JHs1d7UwegA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 13\\ContactManagerApp\\ContactManagerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
