@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4jwwH5bFmohnqxm+Z/PwjDPF3M8UdawjtKsFBZ9D7YIZGOBfGh2s6R1BgXhZ+UmgrDenadM7PfRKTZ+J/pTbrg==",
+  "dgSpecHash": "IVp6CPRiYKo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewLib\\PotionBrewLib.csproj",
+  "projectFilePath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewLib\\PotionBrewLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []

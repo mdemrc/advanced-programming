@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewApp\\PotionBrewApp.csproj",
+      "projectUniqueName": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewApp\\PotionBrewApp.csproj",
       "projectName": "PotionBrewApp",
-      "projectPath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewApp\\PotionBrewApp.csproj",
+      "projectPath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewApp\\PotionBrewApp.csproj",
       "packagesPath": "C:\\Users\\MdmrC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewApp\\obj\\",
+      "outputPath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewLib\\PotionBrewLib.csproj": {
-              "projectPath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewLib\\PotionBrewLib.csproj"
+            "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewLib\\PotionBrewLib.csproj": {
+              "projectPath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewLib\\PotionBrewLib.csproj"
             }
           }
         }
@@ -68,6 +68,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

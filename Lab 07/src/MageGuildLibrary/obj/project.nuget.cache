@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HhWFFlrXtQY=",
+  "dgSpecHash": "7aOF2uGQrlMEVvkG63/APMpr7ZeylpQdFN1M8xTuexGqNBYpOy9CLY6k/XB9thOsmjEcTYIL9s7VlGdu85ZurA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MdmrC\\Desktop\\dersler\\advanced-pr\\lab7\\src\\MageGuildLibrary\\MageGuildLibrary.csproj",
+  "projectFilePath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 7\\src\\MageGuildLibrary\\MageGuildLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\MdmrC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []

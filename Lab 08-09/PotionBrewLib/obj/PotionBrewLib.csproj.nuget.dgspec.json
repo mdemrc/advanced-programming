@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewLib\\PotionBrewLib.csproj": {}
+    "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewLib\\PotionBrewLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewLib\\PotionBrewLib.csproj": {
+    "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewLib\\PotionBrewLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewLib\\PotionBrewLib.csproj",
+        "projectUniqueName": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewLib\\PotionBrewLib.csproj",
         "projectName": "PotionBrewLib",
-        "projectPath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewLib\\PotionBrewLib.csproj",
+        "projectPath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewLib\\PotionBrewLib.csproj",
         "packagesPath": "C:\\Users\\MdmrC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 8-9\\PotionBrewLib\\obj\\",
+        "outputPath": "C:\\Users\\MdmrC\\Desktop\\advanced-programming\\Lab 08-09\\PotionBrewLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
